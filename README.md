@@ -29,7 +29,7 @@ npm install
 2.3. **Add Provider**:
 
 ```bash
-Alert\AlertNotificationServiceProvider::class"
+Alert\AlertNotificationServiceProvider::class
 ```
 
 3. **Publish Configuration**:
