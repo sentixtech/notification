@@ -1,5 +1,5 @@
 {
-    "name": "sentix/alert",
+    "name": "sentix/notification",
     "description": "Laravel Alert Notification Plugin with configurable positions and colors",
     "type": "library",
     "license": "MIT",
