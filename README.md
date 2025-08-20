@@ -14,6 +14,11 @@ A comprehensive Laravel plugin for displaying beautiful, configurable alert noti
 
 ## Installation
 
+```
+website: https://sentixtech.github.io/pluginAlert
+
+```
+
 1. **Install via Composer**:
 
 ```bash
