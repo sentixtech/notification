@@ -32,6 +32,12 @@ npm install
 php artisan vendor:publish --provider="Alert\AlertNotificationServiceProvider" --tag="config"
 ```
 
+3. **Publish Configuration**:
+
+```bash
+php artisan vendor:publish --provider="Alert\AlertNotificationServiceProvider" --tag="config"
+```
+
 4. **Publish Assets**:
 
 ```bash
