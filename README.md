@@ -26,10 +26,10 @@ composer require sentix/alert
 npm install
 ```
 
-3. **Publish Configuration**:
+2.3. **Add Provider**:
 
 ```bash
-php artisan vendor:publish --provider="Alert\AlertNotificationServiceProvider" --tag="config"
+Alert\AlertNotificationServiceProvider::class"
 ```
 
 3. **Publish Configuration**:
